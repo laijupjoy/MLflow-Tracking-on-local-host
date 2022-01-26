@@ -55,12 +55,15 @@ Connect to the MLFlow UI @ http://127.0.0.1:5000.
 We can see that experiments are getting logged, and analysis the models perfomance.
 Based on requirements, choose a required model and promoted to deployment mode.
 
+### MLFlow Dashboard - Experiment Tracking
 ![](4.png)
 
 
+### Model Evaluation
 ![](5.png)
 
 
+### Models Perfomance Comparison
 ![](comparison.png)
 
 
