@@ -44,7 +44,7 @@ mlflow ui
 ![](1.png)
 
 
-### Evaluation Matrics and Parameters created
+### Evaluation Metrics and Parameters created
 ![](2.png)
 
 
