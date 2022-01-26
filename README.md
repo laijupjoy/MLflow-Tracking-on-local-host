@@ -40,12 +40,15 @@ python main.py
 mlflow ui
 ```
 
+### Models Run at Local Machine
 ![](1.png)
 
 
+### Evaluation Matrics and Parameters created
 ![](2.png)
 
 
+### Models Created based on Different Parameters
 ![](3.png)
 
 
